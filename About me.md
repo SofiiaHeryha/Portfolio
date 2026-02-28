@@ -16,3 +16,6 @@
 - **Python** — pandas, обробка та аналіз даних  
 - **Tableau** — створення інтерактивних дашбордів  
 - **Google Sheets & Excel** — формули, зведені таблиці, аналітика  
+
+## Social
+- [**Tableau**](https://public.tableau.com/app/profile/sofiia.heryha)
